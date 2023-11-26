@@ -1,0 +1,22 @@
+
+.main{
+  height: 100vh;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-2{
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  background-color: white;
+  height: 80%;
+  width: 80%;
+}
+.form{
+  width: 50%;
+  background-color:#8dcd27;
+  padding: 25px;
+  border-radius: 10px;
+}
